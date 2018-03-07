@@ -10,6 +10,7 @@ namespace _13TriangleOfInputWidth
     {
         static void Main(string[] args)
         {
+            //Sample
             Console.WriteLine("Enter the number");
             int a = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("Enter the Width for the Triangle");

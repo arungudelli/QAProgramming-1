@@ -1,0 +1,6 @@
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\14Calculator\bin\Debug\14Calculator.exe.config
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\14Calculator\obj\Debug\14Calculator.csprojResolveAssemblyReference.cache
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\14Calculator\bin\Debug\14Calculator.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\14Calculator\bin\Debug\14Calculator.pdb
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\14Calculator\obj\Debug\14Calculator.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\14Calculator\obj\Debug\14Calculator.pdb

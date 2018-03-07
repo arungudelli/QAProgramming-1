@@ -1,0 +1,5 @@
+c:\Users\vidyadharm\documents\visual studio 2015\Projects\Practice\4SumOfTwoIntegers\bin\Debug\4SumOfTwoIntegers.exe.config
+c:\Users\vidyadharm\documents\visual studio 2015\Projects\Practice\4SumOfTwoIntegers\bin\Debug\4SumOfTwoIntegers.exe
+c:\Users\vidyadharm\documents\visual studio 2015\Projects\Practice\4SumOfTwoIntegers\bin\Debug\4SumOfTwoIntegers.pdb
+c:\Users\vidyadharm\documents\visual studio 2015\Projects\Practice\4SumOfTwoIntegers\obj\Debug\4SumOfTwoIntegers.exe
+c:\Users\vidyadharm\documents\visual studio 2015\Projects\Practice\4SumOfTwoIntegers\obj\Debug\4SumOfTwoIntegers.pdb

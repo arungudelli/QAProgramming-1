@@ -1,0 +1,5 @@
+c:\Users\vidyadharm\documents\visual studio 2015\Projects\Practice\1MultiplicationOfThreeNumbers\bin\Debug\1MultiplicationOfThreeNumbers.exe.config
+c:\Users\vidyadharm\documents\visual studio 2015\Projects\Practice\1MultiplicationOfThreeNumbers\bin\Debug\1MultiplicationOfThreeNumbers.exe
+c:\Users\vidyadharm\documents\visual studio 2015\Projects\Practice\1MultiplicationOfThreeNumbers\bin\Debug\1MultiplicationOfThreeNumbers.pdb
+c:\Users\vidyadharm\documents\visual studio 2015\Projects\Practice\1MultiplicationOfThreeNumbers\obj\Debug\1MultiplicationOfThreeNumbers.exe
+c:\Users\vidyadharm\documents\visual studio 2015\Projects\Practice\1MultiplicationOfThreeNumbers\obj\Debug\1MultiplicationOfThreeNumbers.pdb

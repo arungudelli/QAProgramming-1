@@ -1,0 +1,5 @@
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\15TrueOrFalseWhenBothAreEvenOrOdd\bin\Debug\15TrueOrFalseWhenBothAreEvenOrOdd.exe.config
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\15TrueOrFalseWhenBothAreEvenOrOdd\bin\Debug\15TrueOrFalseWhenBothAreEvenOrOdd.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\15TrueOrFalseWhenBothAreEvenOrOdd\bin\Debug\15TrueOrFalseWhenBothAreEvenOrOdd.pdb
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\15TrueOrFalseWhenBothAreEvenOrOdd\obj\Debug\15TrueOrFalseWhenBothAreEvenOrOdd.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\15TrueOrFalseWhenBothAreEvenOrOdd\obj\Debug\15TrueOrFalseWhenBothAreEvenOrOdd.pdb

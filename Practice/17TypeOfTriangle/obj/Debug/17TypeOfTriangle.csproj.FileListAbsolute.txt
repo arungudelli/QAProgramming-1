@@ -1,0 +1,5 @@
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\17TypeOfTriangle\bin\Debug\17TypeOfTriangle.exe.config
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\17TypeOfTriangle\bin\Debug\17TypeOfTriangle.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\17TypeOfTriangle\bin\Debug\17TypeOfTriangle.pdb
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\17TypeOfTriangle\obj\Debug\17TypeOfTriangle.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\17TypeOfTriangle\obj\Debug\17TypeOfTriangle.pdb

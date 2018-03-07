@@ -1,0 +1,5 @@
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\9NewStringOfAlternateCharacter\bin\Debug\9NewStringOfAlternateCharacter.exe.config
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\9NewStringOfAlternateCharacter\bin\Debug\9NewStringOfAlternateCharacter.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\9NewStringOfAlternateCharacter\bin\Debug\9NewStringOfAlternateCharacter.pdb
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\9NewStringOfAlternateCharacter\obj\Debug\9NewStringOfAlternateCharacter.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\9NewStringOfAlternateCharacter\obj\Debug\9NewStringOfAlternateCharacter.pdb

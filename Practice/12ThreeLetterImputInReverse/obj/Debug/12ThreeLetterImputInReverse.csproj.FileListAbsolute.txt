@@ -1,0 +1,6 @@
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\12ThreeLetterImputInReverse\bin\Debug\12ThreeLetterImputInReverse.exe.config
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\12ThreeLetterImputInReverse\obj\Debug\12ThreeLetterImputInReverse.csprojResolveAssemblyReference.cache
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\12ThreeLetterImputInReverse\bin\Debug\12ThreeLetterImputInReverse.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\12ThreeLetterImputInReverse\bin\Debug\12ThreeLetterImputInReverse.pdb
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\12ThreeLetterImputInReverse\obj\Debug\12ThreeLetterImputInReverse.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\12ThreeLetterImputInReverse\obj\Debug\12ThreeLetterImputInReverse.pdb

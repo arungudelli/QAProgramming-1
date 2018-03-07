@@ -1,0 +1,5 @@
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\18TriangleCanBeFormedOrNot\bin\Debug\18TriangleCanBeFormedOrNot.exe.config
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\18TriangleCanBeFormedOrNot\bin\Debug\18TriangleCanBeFormedOrNot.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\18TriangleCanBeFormedOrNot\bin\Debug\18TriangleCanBeFormedOrNot.pdb
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\18TriangleCanBeFormedOrNot\obj\Debug\18TriangleCanBeFormedOrNot.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\18TriangleCanBeFormedOrNot\obj\Debug\18TriangleCanBeFormedOrNot.pdb

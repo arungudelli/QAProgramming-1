@@ -1,0 +1,6 @@
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\7MultiplyCorrespondingElementsOfArray\bin\Debug\7MultiplyCorrespondingElementsOfArray.exe.config
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\7MultiplyCorrespondingElementsOfArray\bin\Debug\7MultiplyCorrespondingElementsOfArray.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\7MultiplyCorrespondingElementsOfArray\bin\Debug\7MultiplyCorrespondingElementsOfArray.pdb
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\7MultiplyCorrespondingElementsOfArray\obj\Debug\7MultiplyCorrespondingElementsOfArray.csprojResolveAssemblyReference.cache
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\7MultiplyCorrespondingElementsOfArray\obj\Debug\7MultiplyCorrespondingElementsOfArray.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\7MultiplyCorrespondingElementsOfArray\obj\Debug\7MultiplyCorrespondingElementsOfArray.pdb

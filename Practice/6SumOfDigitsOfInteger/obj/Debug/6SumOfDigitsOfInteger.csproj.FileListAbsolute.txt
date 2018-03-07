@@ -1,0 +1,6 @@
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\6SumOfDigitsOfInteger\bin\Debug\6SumOfDigitsOfInteger.exe.config
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\6SumOfDigitsOfInteger\bin\Debug\6SumOfDigitsOfInteger.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\6SumOfDigitsOfInteger\bin\Debug\6SumOfDigitsOfInteger.pdb
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\6SumOfDigitsOfInteger\obj\Debug\6SumOfDigitsOfInteger.csprojResolveAssemblyReference.cache
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\6SumOfDigitsOfInteger\obj\Debug\6SumOfDigitsOfInteger.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\6SumOfDigitsOfInteger\obj\Debug\6SumOfDigitsOfInteger.pdb

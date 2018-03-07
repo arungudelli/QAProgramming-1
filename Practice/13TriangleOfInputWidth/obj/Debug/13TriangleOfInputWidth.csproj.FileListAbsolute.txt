@@ -1,0 +1,6 @@
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\13TriangleOfInputWidth\bin\Debug\13TriangleOfInputWidth.exe.config
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\13TriangleOfInputWidth\bin\Debug\13TriangleOfInputWidth.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\13TriangleOfInputWidth\bin\Debug\13TriangleOfInputWidth.pdb
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\13TriangleOfInputWidth\obj\Debug\13TriangleOfInputWidth.csprojResolveAssemblyReference.cache
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\13TriangleOfInputWidth\obj\Debug\13TriangleOfInputWidth.exe
+C:\Users\vidyadharm\Documents\Visual Studio 2015\Projects\Practice\13TriangleOfInputWidth\obj\Debug\13TriangleOfInputWidth.pdb

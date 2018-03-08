@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22SumOfFirstTenNaturalNumbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23SumAndAverage", "23SumAndAverage\23SumAndAverage.csproj", "{45E88CAF-F50D-40B8-9F7A-A430B1383715}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24NOddNaturalNumbersAndTheirSum", "NOddNaturalNumbersAndTheirSum\24NOddNaturalNumbersAndTheirSum.csproj", "{1568159E-696F-4290-A812-8656BA9555B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{45E88CAF-F50D-40B8-9F7A-A430B1383715}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45E88CAF-F50D-40B8-9F7A-A430B1383715}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45E88CAF-F50D-40B8-9F7A-A430B1383715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1568159E-696F-4290-A812-8656BA9555B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1568159E-696F-4290-A812-8656BA9555B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1568159E-696F-4290-A812-8656BA9555B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1568159E-696F-4290-A812-8656BA9555B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
